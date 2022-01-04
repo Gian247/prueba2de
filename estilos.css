@@ -1,4 +1,5 @@
 body{
+    background: rgb(34, 32, 32);
     color: #333;
     text-align: left;
     font-family: 'Courier New', Courier, monospace
@@ -11,6 +12,10 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 
+}
+#cabecera #logo{
+    width: 10%;
+    vertical-align: middle;
 }
 #container h1{
     font-size: 20px;
@@ -29,6 +34,7 @@ body{
     margin: 0 0 0 1em;
 }
 #post{
+    background: rgb(255, 255, 255);
     padding: 1em;
 
 }
